@@ -1,5 +1,5 @@
-# BScreaper
-BScreaper. A library to crawl websites for Tor
+# BScraper
+BScraper. A library to crawl websites for Tor
 
 The BScraper library helps you to crawl Tor's websites and extract information from them
 
