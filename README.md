@@ -9,6 +9,8 @@ The BScraper library helps you to crawl Tor's websites and extract information f
 **General syntax**
 
 ```php
+require 'BScraper.php';
+
 use Boutaj\Scraper;
 
 $Bscraper = new BScraper();
@@ -16,6 +18,8 @@ $Bscraper = new BScraper();
 **Get Tor website contents**
 
 ```php
+require 'BScraper.php';
+
 use Boutaj\Scraper;
 
 $Bscraper = new BScraper();
@@ -27,6 +31,8 @@ echo $Bscraper->get_contents($url);
 **Get Tor website headers**
 
 ```php
+require 'BScraper.php';
+
 use Boutaj\Scraper;
 
 $Bscraper = new BScraper();
